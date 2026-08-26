@@ -1,0 +1,8 @@
+[project]
+name = "pell-digit-discrepancies"
+version = "0.1.0"
+description = "Exact computations for digit-length discrepancies in Pell convergents"
+requires-python = ">=3.10"
+
+[tool.unittest]
+start-directory = "tests"
